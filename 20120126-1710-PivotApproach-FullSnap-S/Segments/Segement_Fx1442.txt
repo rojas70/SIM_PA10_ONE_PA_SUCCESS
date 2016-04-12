@@ -1,0 +1,9 @@
+Iteration : 1
+Average   : -1.87249
+Max Val   : 0.00000
+Min Val   : -3.91356
+Start     : 0.00000
+Finish    : 0.00500
+Gradient  : -860.38740
+Grad Label: bneg  
+

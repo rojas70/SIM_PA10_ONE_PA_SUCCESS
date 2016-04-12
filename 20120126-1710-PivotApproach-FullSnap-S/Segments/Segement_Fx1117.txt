@@ -1,0 +1,4 @@
+Iteration : 1  
+Average   : 0.00000
+
+Max Val   : 0.00000

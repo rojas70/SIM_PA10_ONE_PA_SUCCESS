@@ -1,0 +1,27 @@
+Iteration : 1
+Average   : -1.87249
+Max Val   : 0.00000
+Min Val   : -3.91356
+Start     : 0.00000
+Finish    : 0.00500
+Gradient  : -860.38740
+Grad Label: bneg  
+
+Iteration : 1
+Average   : -1.87249
+Max Val   : 0.00000
+Min Val   : -3.91356
+Start     : 0.00000
+Finish    : 0.00500
+Gradient  : -860.38740
+Grad Label: bneg  
+
+Iteration : 2
+Average   : -1.56055
+Max Val   : -0.73296
+Min Val   : -3.15501
+Start     : 0.00500
+Finish    : 0.01000
+Gradient  : -6.29394
+Grad Label: bneg  
+

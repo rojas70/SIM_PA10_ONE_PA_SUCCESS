@@ -1,0 +1,19 @@
+Iteration     : 1
+CompLabel     : CT
+averageVal1   : 9.48059
+averageVal2   : 9.48059
+AVG_MAG_VAL   : 9.48059
+rmsVal1       : 9.48059
+rmsVal2       : 9.48059
+AVG_RMS_Val   : 9.48059
+amplitudeVal1 : 56.43635
+amplitudeVal2 : 56.43635
+AVG_AMP_VAL   : 56.43635
+Label 1       : nc
+Label 2       : z
+t1Start       : 0.00000
+t1End         : 0.10900
+t2Start       : 0.00000
+t2End         : 0.10900
+tAvgIndex     : 0.05450
+

@@ -1,0 +1,2 @@
+Iteration : 1
+Average   : 0.00000

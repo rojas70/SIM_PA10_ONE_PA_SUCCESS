@@ -1,0 +1,9 @@
+Iteration : 0
+Average   : -3.91356
+Max Val   : 0.00000
+Min Val   : 0.00500
+Start     : -860.38740
+Finish    : 98.00000
+Finish    : 110.00000
+Finish    : 101.00000
+Finish    : 103.00000

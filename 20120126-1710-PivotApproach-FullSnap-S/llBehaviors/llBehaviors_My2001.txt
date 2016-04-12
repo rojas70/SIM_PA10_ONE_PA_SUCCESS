@@ -1,0 +1,13 @@
+Iteration     : 1
+CompLabel     : CT
+Average Val   : 9.48059
+RMS Val       : 9.48059
+Amplitude Val : 56.43635
+Label 1       : nc
+Label 2       : z
+t1Start       : 0.00000
+t1End         : 0.00400
+t2Start       : 0.00000
+t2End         : 0.00400
+tAvgIndex     : 0.00200
+
